@@ -1,7 +1,7 @@
 import "./App.css";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
-import { Model as WebExperience } from "./assets/3D-Model/Web-experience"
+import { Model as WebExperience } from "./assets/team-dioramas/web-experience/Web-experience"
 
 function App() {
   return (
